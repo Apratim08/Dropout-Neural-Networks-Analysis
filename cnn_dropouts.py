@@ -6,7 +6,7 @@ import os
 
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Can delete this, not necessary
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  
 
 # Function to generate a hidden layer architecture based on dropout probability
 def hiddenLayer(prob):
