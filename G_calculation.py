@@ -27,9 +27,9 @@ for z, values in data.items():
         k_p = k * p  # k multiplied by the probability of correct instances
         log2_p = np.log2(p) 
         G = -k_p * log2_p / values["MEC"]  
-        G_values[z] = G  # store G in the dictionary
+        G_values[z] = G 
     else:
-        G_values[z] = 'Undefined'  # Handle cases where p <= 0
+        G_values[z] = 'Undefined'
 
 # Return each G value
 print(G_values)
