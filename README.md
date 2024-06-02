@@ -4,7 +4,8 @@ In this project, we will investigate the effects of varying dropout rates on the
 
 ## Purpose of the Project
 
-The primary goal is to explore the effects of varying the tunable hyperparameter 'p' (the probability of retaining a unit in the network) and the number of hidden layers, 'n'. By fixing the product of `p` and `n`, we can observe that the error magnitude for smaller values of `p` is reduced (Fig. 9a) compared to when the number of hidden layers is constant (Fig. 9b).
+The primary goal is to explore the effects of varying the tunable hyperparameter 'p' (the probability of retaining a unit in the network) and the number of hidden layers, 'n'. By fixing the product of `p` and `n`, we can observe that the error magnitude for smaller values of `p` is reduced compared to when the number of hidden layers is constant, as highlighted in the [pdf report](https://github.com/Apratim08/Dropout-Neural-Networks-Analysis/blob/main/CS294_Final_Project.pdf).
+
 
 ## Problem Setting
 
