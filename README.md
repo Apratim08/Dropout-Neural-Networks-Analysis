@@ -26,4 +26,4 @@ The implementation follows these steps:
 4. **Data Collection**: Gather and write the data into a CSV file. This file will contain all the necessary data to produce the figures.
 5. **Analysis**: Learn how the dropout rate benefits the overall error in a neural network.
 
-By completing this project, we better understood the impact of dropout rates on neural network performance, specifically regarding error reduction. We also answered critical questions related to Memory Equivalent Capacity (MEC), Generalization, and the nature of the dataset as answered in this ![pdf report](https://github.com/Apratim08/Dropout-Neural-Networks-Analysis/blob/main/CS294_Final_Project.pdf)
+By completing this project, we better understood the impact of dropout rates on neural network performance, specifically regarding error reduction. We also answered critical questions related to Memory Equivalent Capacity (MEC), Generalization, and the nature of the dataset as answered in this [pdf report](https://github.com/Apratim08/Dropout-Neural-Networks-Analysis/blob/main/CS294_Final_Project.pdf)
