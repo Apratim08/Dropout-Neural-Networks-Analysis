@@ -1,4 +1,5 @@
 # Dropout Method: Neural Networks Overfitting Prevention
+### Contributors: Apratim Banerjee, Abirami Sabbani, Lakshya Agarwal
 
 In this project, we will investigate the effects of varying dropout rates on the MNIST dataset, specifically focusing on how different dropout rates impact error rates.
 
